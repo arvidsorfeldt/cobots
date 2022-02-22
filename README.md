@@ -1,5 +1,5 @@
 # cobots
-This must be installed on a system with ubuntu 20.04 focal with ros installed.
+This must be installed on a system with ubuntu 20.04 focal with ros installed and sourced.
 
 First install rust.
 ```console
