@@ -1,0 +1,80 @@
+running egg_info
+creating ../../../../../build/case_scenes/case_scenes.egg-info
+writing ../../../../../build/case_scenes/case_scenes.egg-info/PKG-INFO
+writing dependency_links to ../../../../../build/case_scenes/case_scenes.egg-info/dependency_links.txt
+writing entry points to ../../../../../build/case_scenes/case_scenes.egg-info/entry_points.txt
+writing requirements to ../../../../../build/case_scenes/case_scenes.egg-info/requires.txt
+writing top-level names to ../../../../../build/case_scenes/case_scenes.egg-info/top_level.txt
+writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+reading manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/arvid/Documents/cobots/ws/build/case_scenes/build
+creating /home/arvid/Documents/cobots/ws/build/case_scenes/build/lib
+creating /home/arvid/Documents/cobots/ws/build/case_scenes/build/lib/case_scenes
+copying case_scenes/__init__.py -> /home/arvid/Documents/cobots/ws/build/case_scenes/build/lib/case_scenes
+running install
+running install_lib
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+copying /home/arvid/Documents/cobots/ws/build/case_scenes/build/lib/case_scenes/__init__.py -> /home/arvid/Documents/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+byte-compiling /home/arvid/Documents/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/ament_index
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/ament_index/resource_index
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/ament_index/resource_index/packages
+copying resource/case_scenes -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/ament_index/resource_index/packages
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/process2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos8.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/process3.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/machine2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/machine3.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos9.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos6.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos7.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/rsp.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/machine1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/cube.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/svt_tcp.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/process1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos5.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos4.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/table.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/rsp_tool0.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/floor.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/output.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/input.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/pos3.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/svt.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+copying scenarios/scenario_1/base_link.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_1
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/logitech_c270.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/piab_tool.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/pose_1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/vention_stand.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/cube.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/suction_cup_2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/above_table.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/suction_cup_1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/floor.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/pose_2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+copying scenarios/scenario_2/base_link.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_2
+creating /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/box_table.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/logitech_c270.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/piab_tool.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/cube.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/suction_cup_2.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/stand.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/suction_cup_1.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/floor.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying scenarios/scenario_3/base_link.json -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes/scenarios/scenario_3
+copying package.xml -> /home/arvid/Documents/cobots/ws/install/case_scenes/share/case_scenes
+running install_egg_info
+Copying ../../../../../build/case_scenes/case_scenes.egg-info to /home/arvid/Documents/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes-0.0.1-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/arvid/Documents/cobots/ws/build/case_scenes/install.log'

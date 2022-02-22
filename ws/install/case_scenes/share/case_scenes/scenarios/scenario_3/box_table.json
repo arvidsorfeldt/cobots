@@ -1,0 +1,35 @@
+{
+    "show": true,
+    "active": false,
+    "child_frame": "box_table",
+    "parent_frame": "world",
+    "transform": {
+        "translation": {
+            "x": 0.6421768665313721,
+            "y": -0.5304,
+            "z": 0.93
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071,
+            "w": 0.7071
+        }
+    },
+    "secondary_transforms": [],
+    "visualization": {
+        "mesh": "box_table.stl",
+        "show_mesh": true,
+        "interactive": false,
+        "quantity": 1.0,
+        "marker_scale": 0.3,
+        "fixed_marker": false,
+        "scale_x": 0.001,
+        "scale_y": 0.001,
+        "scale_z": 0.001,
+        "color_a": 1.0,
+        "color_r": 0.8,
+        "color_g": 0.8,
+        "color_b": 0.8
+    }
+}

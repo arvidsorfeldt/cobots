@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>case_scenes</name>
+  <version>0.0.1</version>
+  <description>
+    Scenarios.
+  </description>
+
+  <author>Endre Erős</author>
+  <author email="endree@chalmers.se">Endre Erős</author>
+  <maintainer email="endree@chalmers.se">Endre Erős</maintainer>
+
+  <license>no_license</license>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+  
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

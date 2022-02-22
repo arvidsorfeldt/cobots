@@ -1,0 +1,128 @@
+running egg_info
+creating ../../../../build/py_ctrl/py_ctrl.egg-info
+writing ../../../../build/py_ctrl/py_ctrl.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/py_ctrl/py_ctrl.egg-info/dependency_links.txt
+writing entry points to ../../../../build/py_ctrl/py_ctrl.egg-info/entry_points.txt
+writing requirements to ../../../../build/py_ctrl/py_ctrl.egg-info/requires.txt
+writing top-level names to ../../../../build/py_ctrl/py_ctrl.egg-info/top_level.txt
+writing manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner
+copying planner/plan.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner
+copying planner/__main__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner
+copying planner/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model
+copying model/__main__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model
+copying model/model.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model
+copying model/operation.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model
+copying model/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner
+copying runner/ctrl.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner
+copying runner/__main__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner
+copying runner/ctrl_hands.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner
+copying runner/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/actions.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/guards.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/errors.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/state.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/__main__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+copying predicates/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/tests
+copying planner/tests/test_planner.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/tests
+copying planner/tests/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/tests
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests
+copying model/tests/test_model.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests
+copying model/tests/test_operation.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests
+copying model/tests/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/tests
+copying runner/tests/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/tests
+creating /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+copying predicates/tests/test_actions.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+copying predicates/tests/test_parser.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+copying predicates/tests/test_guards.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+copying predicates/tests/test_states.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+copying predicates/tests/__init__.py -> /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+running install
+running install_lib
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/plan.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/__main__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/tests/test_planner.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/planner/tests/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/__main__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/model.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/operation.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests/test_model.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests/test_operation.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/model/tests/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/ctrl.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/__main__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/ctrl_hands.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/runner/tests/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/actions.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/guards.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/errors.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/state.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/__main__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_actions.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_parser.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_guards.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_states.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+copying /home/arvid/Documents/cobots/ws/build/py_ctrl/build/lib/predicates/tests/__init__.py -> /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/plan.py to plan.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/__main__.py to __main__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests/test_planner.py to test_planner.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/__main__.py to __main__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/model.py to model.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/operation.py to operation.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/test_model.py to test_model.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/test_operation.py to test_operation.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/ctrl.py to ctrl.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/__main__.py to __main__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/ctrl_hands.py to ctrl_hands.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/actions.py to actions.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/guards.py to guards.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/errors.py to errors.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/state.py to state.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/__main__.py to __main__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_actions.py to test_actions.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_parser.py to test_parser.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_guards.py to test_guards.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_states.py to test_states.cpython-38.pyc
+byte-compiling /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/share/ament_index
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/share/ament_index/resource_index
+creating /home/arvid/Documents/cobots/ws/install/py_ctrl/share/ament_index/resource_index/packages
+copying resource/py_ctrl -> /home/arvid/Documents/cobots/ws/install/py_ctrl/share/ament_index/resource_index/packages
+copying package.xml -> /home/arvid/Documents/cobots/ws/install/py_ctrl/share/py_ctrl
+running install_egg_info
+Copying ../../../../build/py_ctrl/py_ctrl.egg-info to /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/py_ctrl-0.0.0-py3.8.egg-info
+running install_scripts
+Installing go script to /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/py_ctrl
+Installing hands script to /home/arvid/Documents/cobots/ws/install/py_ctrl/lib/py_ctrl
+writing list of installed files to '/home/arvid/Documents/cobots/ws/build/py_ctrl/install.log'
