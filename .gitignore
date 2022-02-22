@@ -2,6 +2,8 @@ devel/
 logs/
 build/
 bin/
+ws/install/
+ws/log/
 lib/
 msg_gen/
 srv_gen/
