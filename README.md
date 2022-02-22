@@ -12,7 +12,7 @@ Make install script executable
 ```console
 chmod +x install.bash
 ```
-Run the installer.
+Restart vscode and run the installer.
 ```console
 ./install.bash
 ```
