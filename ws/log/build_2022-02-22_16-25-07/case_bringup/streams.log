@@ -1,0 +1,34 @@
+[0.036s] Invoking command in '/home/knug-artur/dev/cobots/ws/build/case_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --build /home/knug-artur/dev/cobots/ws/build/case_bringup -- -j4 -l4
+[0.532s] Invoked command in '/home/knug-artur/dev/cobots/ws/build/case_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --build /home/knug-artur/dev/cobots/ws/build/case_bringup -- -j4 -l4
+[0.571s] Invoking command in '/home/knug-artur/dev/cobots/ws/build/case_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --install /home/knug-artur/dev/cobots/ws/build/case_bringup
+[0.582s] -- Install configuration: ""
+[0.582s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch
+[0.582s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r4.launch.py
+[0.582s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r3.launch.py
+[0.582s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r1.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r2.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r4.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r2.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r1.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r3.launch.py
+[0.583s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/paths.json
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_1.rviz
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_3.rviz
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_2.rviz
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/package_run_dependencies/case_bringup
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/parent_prefix_path/case_bringup
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/ament_prefix_path.sh
+[0.584s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/ament_prefix_path.dsv
+[0.585s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/path.sh
+[0.585s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/path.dsv
+[0.585s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.bash
+[0.585s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.sh
+[0.585s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.zsh
+[0.586s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.dsv
+[0.587s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/package.dsv
+[0.593s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/packages/case_bringup
+[0.593s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/cmake/case_bringupConfig.cmake
+[0.593s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/cmake/case_bringupConfig-version.cmake
+[0.593s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/package.xml
+[0.594s] Invoked command in '/home/knug-artur/dev/cobots/ws/build/case_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --install /home/knug-artur/dev/cobots/ws/build/case_bringup

@@ -1,0 +1,26 @@
+running egg_info
+creating ../../../../../build/case_scenes/case_scenes.egg-info
+writing ../../../../../build/case_scenes/case_scenes.egg-info/PKG-INFO
+writing dependency_links to ../../../../../build/case_scenes/case_scenes.egg-info/dependency_links.txt
+writing entry points to ../../../../../build/case_scenes/case_scenes.egg-info/entry_points.txt
+writing requirements to ../../../../../build/case_scenes/case_scenes.egg-info/requires.txt
+writing top-level names to ../../../../../build/case_scenes/case_scenes.egg-info/top_level.txt
+writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+reading manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build
+creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib
+creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes
+copying case_scenes/__init__.py -> /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes
+running install
+running install_lib
+creating /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+copying /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes/__init__.py -> /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+byte-compiling /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes/__init__.py to __init__.cpython-38.pyc
+running install_data
+running install_egg_info
+Copying ../../../../../build/case_scenes/case_scenes.egg-info to /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes-0.0.1-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/knug-artur/dev/cobots/ws/build/case_scenes/install.log'

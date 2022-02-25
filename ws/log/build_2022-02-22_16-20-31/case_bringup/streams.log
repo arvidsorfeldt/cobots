@@ -1,0 +1,62 @@
+[0.038s] Invoking command in '/home/knug-artur/dev/cobots/ws/build/case_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake /home/knug-artur/dev/cobots/ws/src/lab/src/case_suite/case_bringup -DCMAKE_INSTALL_PREFIX=/home/knug-artur/dev/cobots/ws/install/case_bringup
+[0.327s] -- The C compiler identification is GNU 9.3.0
+[0.327s] -- The CXX compiler identification is GNU 9.3.0
+[0.327s] -- Check for working C compiler: /usr/bin/cc
+[0.327s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.327s] -- Detecting C compiler ABI info
+[0.328s] -- Detecting C compiler ABI info - done
+[0.337s] -- Detecting C compile features
+[0.337s] -- Detecting C compile features - done
+[0.340s] -- Check for working CXX compiler: /usr/bin/c++
+[0.422s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.423s] -- Detecting CXX compiler ABI info
+[0.504s] -- Detecting CXX compiler ABI info - done
+[0.516s] -- Detecting CXX compile features
+[0.516s] -- Detecting CXX compile features - done
+[0.520s] -- Found ament_cmake: 1.1.5 (/opt/ros/galactic/share/ament_cmake/cmake)
+[0.552s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.552s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.672s] -- Found ament_lint_auto: 0.10.6 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+[0.774s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.776s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.778s] -- Added test 'lint_cmake' to check CMake code style
+[0.779s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.780s] -- Added test 'xmllint' to check XML markup files
+[0.783s] -- Configuring done
+[0.785s] -- Generating done
+[0.786s] -- Build files have been written to: /home/knug-artur/dev/cobots/ws/build/case_bringup
+[0.790s] Invoked command in '/home/knug-artur/dev/cobots/ws/build/case_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake /home/knug-artur/dev/cobots/ws/src/lab/src/case_suite/case_bringup -DCMAKE_INSTALL_PREFIX=/home/knug-artur/dev/cobots/ws/install/case_bringup
+[0.793s] Invoking command in '/home/knug-artur/dev/cobots/ws/build/case_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --build /home/knug-artur/dev/cobots/ws/build/case_bringup -- -j4 -l4
+[0.836s] Invoked command in '/home/knug-artur/dev/cobots/ws/build/case_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --build /home/knug-artur/dev/cobots/ws/build/case_bringup -- -j4 -l4
+[0.874s] Invoking command in '/home/knug-artur/dev/cobots/ws/build/case_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --install /home/knug-artur/dev/cobots/ws/build/case_bringup
+[0.884s] -- Install configuration: ""
+[0.884s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch
+[0.884s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r4.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r3.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r1.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r2.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r4.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r2.launch.py
+[0.885s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/case_r1.launch.py
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/launch/opc_r3.launch.py
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/paths.json
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_1.rviz
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_3.rviz
+[0.886s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/config/scenario_2.rviz
+[0.886s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/package_run_dependencies/case_bringup
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/parent_prefix_path/case_bringup
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/ament_prefix_path.sh
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/ament_prefix_path.dsv
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/path.sh
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/environment/path.dsv
+[0.887s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.bash
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.sh
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.zsh
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/local_setup.dsv
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/package.dsv
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/ament_index/resource_index/packages/case_bringup
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/cmake/case_bringupConfig.cmake
+[0.888s] -- Installing: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/cmake/case_bringupConfig-version.cmake
+[0.889s] -- Up-to-date: /home/knug-artur/dev/cobots/ws/install/case_bringup/share/case_bringup/package.xml
+[0.891s] Invoked command in '/home/knug-artur/dev/cobots/ws/build/case_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/knug-artur/dev/cobots/dep_ws/install/viz_static:/home/knug-artur/dev/cobots/dep_ws/install/viz_interactive:/home/knug-artur/dev/cobots/dep_ws/install/ur_setup:/home/knug-artur/dev/cobots/dep_ws/install/tf_lookup:/home/knug-artur/dev/cobots/dep_ws/install/tf_broadcast:/home/knug-artur/dev/cobots/dep_ws/install/tf_scene:/home/knug-artur/dev/cobots/dep_ws/install/gui_tools:/home/knug-artur/dev/cobots/dep_ws/install/aruco_handler:/opt/ros/galactic /usr/bin/cmake --install /home/knug-artur/dev/cobots/ws/build/case_bringup

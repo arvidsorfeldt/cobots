@@ -1,0 +1,28 @@
+[1.146s] Invoking command in '/home/knug-artur/dev/cobots/ws/src/lab/src/case_suite/case_scenes': PYTHONPATH=/home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/case_scenes build --build-base /home/knug-artur/dev/cobots/ws/build/case_scenes/build install --prefix /home/knug-artur/dev/cobots/ws/install/case_scenes --record /home/knug-artur/dev/cobots/ws/build/case_scenes/install.log --single-version-externally-managed
+[1.383s] running egg_info
+[1.384s] creating ../../../../../build/case_scenes/case_scenes.egg-info
+[1.384s] writing ../../../../../build/case_scenes/case_scenes.egg-info/PKG-INFO
+[1.384s] writing dependency_links to ../../../../../build/case_scenes/case_scenes.egg-info/dependency_links.txt
+[1.385s] writing entry points to ../../../../../build/case_scenes/case_scenes.egg-info/entry_points.txt
+[1.385s] writing requirements to ../../../../../build/case_scenes/case_scenes.egg-info/requires.txt
+[1.385s] writing top-level names to ../../../../../build/case_scenes/case_scenes.egg-info/top_level.txt
+[1.386s] writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+[1.421s] reading manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+[1.422s] writing manifest file '../../../../../build/case_scenes/case_scenes.egg-info/SOURCES.txt'
+[1.422s] running build
+[1.422s] running build_py
+[1.422s] creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build
+[1.423s] creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib
+[1.423s] creating /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes
+[1.423s] copying case_scenes/__init__.py -> /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes
+[1.423s] running install
+[1.423s] running install_lib
+[1.424s] creating /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+[1.425s] copying /home/knug-artur/dev/cobots/ws/build/case_scenes/build/lib/case_scenes/__init__.py -> /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes
+[1.425s] byte-compiling /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes/__init__.py to __init__.cpython-38.pyc
+[1.426s] running install_data
+[1.428s] running install_egg_info
+[1.430s] Copying ../../../../../build/case_scenes/case_scenes.egg-info to /home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages/case_scenes-0.0.1-py3.8.egg-info
+[1.431s] running install_scripts
+[1.453s] writing list of installed files to '/home/knug-artur/dev/cobots/ws/build/case_scenes/install.log'
+[1.480s] Invoked command in '/home/knug-artur/dev/cobots/ws/src/lab/src/case_suite/case_scenes' returned '0': PYTHONPATH=/home/knug-artur/dev/cobots/ws/install/case_scenes/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/case_scenes build --build-base /home/knug-artur/dev/cobots/ws/build/case_scenes/build install --prefix /home/knug-artur/dev/cobots/ws/install/case_scenes --record /home/knug-artur/dev/cobots/ws/build/case_scenes/install.log --single-version-externally-managed

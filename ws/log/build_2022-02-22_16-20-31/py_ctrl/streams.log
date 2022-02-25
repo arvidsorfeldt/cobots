@@ -1,0 +1,125 @@
+[1.143s] Invoking command in '/home/knug-artur/dev/cobots/ws/src/lab/src/py_ctrl': PYTHONPATH=/home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/py_ctrl build --build-base /home/knug-artur/dev/cobots/ws/build/py_ctrl/build install --prefix /home/knug-artur/dev/cobots/ws/install/py_ctrl --record /home/knug-artur/dev/cobots/ws/build/py_ctrl/install.log --single-version-externally-managed
+[1.387s] running egg_info
+[1.387s] creating ../../../../build/py_ctrl/py_ctrl.egg-info
+[1.388s] writing ../../../../build/py_ctrl/py_ctrl.egg-info/PKG-INFO
+[1.388s] writing dependency_links to ../../../../build/py_ctrl/py_ctrl.egg-info/dependency_links.txt
+[1.388s] writing entry points to ../../../../build/py_ctrl/py_ctrl.egg-info/entry_points.txt
+[1.388s] writing requirements to ../../../../build/py_ctrl/py_ctrl.egg-info/requires.txt
+[1.389s] writing top-level names to ../../../../build/py_ctrl/py_ctrl.egg-info/top_level.txt
+[1.390s] writing manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+[1.427s] reading manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+[1.428s] writing manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+[1.428s] running build
+[1.429s] running build_py
+[1.429s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build
+[1.429s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib
+[1.429s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner
+[1.429s] copying runner/ctrl.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner
+[1.429s] copying runner/__main__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner
+[1.429s] copying runner/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner
+[1.429s] copying runner/ctrl_hands.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner
+[1.430s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model
+[1.430s] copying model/operation.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model
+[1.430s] copying model/model.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model
+[1.430s] copying model/__main__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model
+[1.430s] copying model/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model
+[1.430s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner
+[1.430s] copying planner/plan.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner
+[1.431s] copying planner/__main__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner
+[1.431s] copying planner/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner
+[1.431s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.431s] copying predicates/actions.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.431s] copying predicates/errors.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.431s] copying predicates/guards.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.432s] copying predicates/state.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.432s] copying predicates/__main__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.432s] copying predicates/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates
+[1.433s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/tests
+[1.433s] copying runner/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/tests
+[1.433s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests
+[1.433s] copying model/tests/test_model.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests
+[1.433s] copying model/tests/test_operation.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests
+[1.433s] copying model/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests
+[1.433s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/tests
+[1.434s] copying planner/tests/test_planner.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/tests
+[1.434s] copying planner/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/tests
+[1.434s] creating /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.434s] copying predicates/tests/test_guards.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.434s] copying predicates/tests/test_states.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.434s] copying predicates/tests/test_parser.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.435s] copying predicates/tests/test_actions.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.435s] copying predicates/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests
+[1.435s] running install
+[1.436s] running install_lib
+[1.437s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+[1.438s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/ctrl.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+[1.438s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests
+[1.438s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests
+[1.438s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/__main__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+[1.438s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+[1.439s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/runner/ctrl_hands.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner
+[1.439s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+[1.439s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/operation.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+[1.439s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+[1.439s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests/test_model.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+[1.439s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests/test_operation.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+[1.440s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests
+[1.440s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/model.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+[1.440s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/__main__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+[1.440s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/model/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model
+[1.440s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+[1.440s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/plan.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+[1.440s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+[1.441s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/tests/test_planner.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+[1.441s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests
+[1.441s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/__main__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+[1.441s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/planner/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner
+[1.441s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/actions.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/errors.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.442s] creating /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_guards.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_states.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_parser.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests/test_actions.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.442s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/tests/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests
+[1.443s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/guards.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.443s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/state.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.443s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/__main__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.443s] copying /home/knug-artur/dev/cobots/ws/build/py_ctrl/build/lib/predicates/__init__.py -> /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates
+[1.443s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/ctrl.py to ctrl.cpython-38.pyc
+[1.447s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/tests/__init__.py to __init__.cpython-38.pyc
+[1.447s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/__main__.py to __main__.cpython-38.pyc
+[1.447s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/__init__.py to __init__.cpython-38.pyc
+[1.447s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/runner/ctrl_hands.py to ctrl_hands.cpython-38.pyc
+[1.448s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/operation.py to operation.cpython-38.pyc
+[1.449s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/test_model.py to test_model.cpython-38.pyc
+[1.449s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/test_operation.py to test_operation.cpython-38.pyc
+[1.450s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/tests/__init__.py to __init__.cpython-38.pyc
+[1.450s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/model.py to model.cpython-38.pyc
+[1.451s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/__main__.py to __main__.cpython-38.pyc
+[1.452s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/model/__init__.py to __init__.cpython-38.pyc
+[1.452s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/plan.py to plan.cpython-38.pyc
+[1.452s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests/test_planner.py to test_planner.cpython-38.pyc
+[1.454s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/tests/__init__.py to __init__.cpython-38.pyc
+[1.454s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/__main__.py to __main__.cpython-38.pyc
+[1.454s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/planner/__init__.py to __init__.cpython-38.pyc
+[1.454s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/actions.py to actions.cpython-38.pyc
+[1.456s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/errors.py to errors.cpython-38.pyc
+[1.456s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_guards.py to test_guards.cpython-38.pyc
+[1.457s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_states.py to test_states.cpython-38.pyc
+[1.458s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_parser.py to test_parser.cpython-38.pyc
+[1.459s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/test_actions.py to test_actions.cpython-38.pyc
+[1.459s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/tests/__init__.py to __init__.cpython-38.pyc
+[1.460s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/guards.py to guards.cpython-38.pyc
+[1.461s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/state.py to state.cpython-38.pyc
+[1.461s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/__main__.py to __main__.cpython-38.pyc
+[1.462s] byte-compiling /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/predicates/__init__.py to __init__.cpython-38.pyc
+[1.462s] running install_data
+[1.462s] running install_egg_info
+[1.464s] Copying ../../../../build/py_ctrl/py_ctrl.egg-info to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/py_ctrl-0.0.0-py3.8.egg-info
+[1.465s] running install_scripts
+[1.483s] Installing go script to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/py_ctrl
+[1.483s] Installing hands script to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/py_ctrl
+[1.484s] writing list of installed files to '/home/knug-artur/dev/cobots/ws/build/py_ctrl/install.log'
+[1.514s] Invoked command in '/home/knug-artur/dev/cobots/ws/src/lab/src/py_ctrl' returned '0': PYTHONPATH=/home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/py_ctrl build --build-base /home/knug-artur/dev/cobots/ws/build/py_ctrl/build install --prefix /home/knug-artur/dev/cobots/ws/install/py_ctrl --record /home/knug-artur/dev/cobots/ws/build/py_ctrl/install.log --single-version-externally-managed

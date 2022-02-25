@@ -1,0 +1,20 @@
+running egg_info
+writing ../../../../build/py_ctrl/py_ctrl.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/py_ctrl/py_ctrl.egg-info/dependency_links.txt
+writing entry points to ../../../../build/py_ctrl/py_ctrl.egg-info/entry_points.txt
+writing requirements to ../../../../build/py_ctrl/py_ctrl.egg-info/requires.txt
+writing top-level names to ../../../../build/py_ctrl/py_ctrl.egg-info/top_level.txt
+reading manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/py_ctrl/py_ctrl.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/py_ctrl-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../../../build/py_ctrl/py_ctrl.egg-info to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/python3.8/site-packages/py_ctrl-0.0.0-py3.8.egg-info
+running install_scripts
+Installing go script to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/py_ctrl
+Installing hands script to /home/knug-artur/dev/cobots/ws/install/py_ctrl/lib/py_ctrl
+writing list of installed files to '/home/knug-artur/dev/cobots/ws/build/py_ctrl/install.log'
